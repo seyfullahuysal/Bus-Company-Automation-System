@@ -1,0 +1,12 @@
+Sefer No   Güzergah             Tarih            Saat            Bilet Fiyatý      Kapasite        Kaptan               Plaka          
+
+2          kocaeli-izmir        04.07.2016       21:00           25,000000         5               emre                 42a5587        
+
+	Koltuk No  Durum   Yolcu Adý          Cinsiyet   Bilet Fiyatý
+	1          0       X                  X          25,000000
+	2          0       X                  X          25,000000
+	3          0       X                  X          25,000000
+	4          0       X                  X          25,000000
+	5          0       X                  X          25,000000
+
+---------------------------------------------------------------------------------------------------------------------------------------

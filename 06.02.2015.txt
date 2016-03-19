@@ -1,0 +1,17 @@
+Sefer No   Güzergah             Tarih            Saat            Bilet Fiyatý      Kapasite        Kaptan               Plaka          
+
+1          kocaeli-ankara       06.02.2015       21:30           20,000000         10              seyfullah            42ayc44        
+
+	Koltuk No  Durum   Yolcu Adý          Cinsiyet   Bilet Fiyatý
+	1          0       X                  X          20,000000
+	2          2       a                  a          20,000000
+	3          2       mehmet             E          20,000000
+	4          0       X                  X          20,000000
+	5          0       X                  X          20,000000
+	6          0       X                  X          20,000000
+	7          0       X                  X          20,000000
+	8          0       X                  X          20,000000
+	9          2       emre               e          20,000000
+	10         0       X                  X          20,000000
+
+---------------------------------------------------------------------------------------------------------------------------------------
